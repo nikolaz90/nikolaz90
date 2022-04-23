@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikolaz90
 - 👀 I’m interested in ... music and coding ! 
-- 🌱 I’m currently learning ... javaScript and PHP
+- 🌱 I’m currently learning ... javaScript
 - 💞️ I’m looking to collaborate on ... any web applications being put together. 
 - 📫 How to reach me ... drop me a line! 
 
