@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikolaz90
 - I'm working on a content management system for a small organisation.
-- My go to tools are React and Ruby on Rails, either as individual projects or as 2 separate apps for one project.
+- My go to tools are Ruby and JavaScript
 - Checkout my website: https://nikolaz.tech/
 
 <!---
