@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikolaz90
-- a Ruby and Javascript developper at Plezi
+- a Ruby and Javascript developer at Plezi
 - Checkout my website: https://nikolaz.tech/
 
 <!---
