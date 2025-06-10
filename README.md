@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikolaz90
-- I'm working on a content management system for a small organisation.
-- My go to tools are Ruby and JavaScript
+- a Ruby and Javascript developper at Plezi
 - Checkout my website: https://nikolaz.tech/
 
 <!---
